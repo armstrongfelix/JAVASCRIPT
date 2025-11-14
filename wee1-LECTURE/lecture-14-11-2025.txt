@@ -1,0 +1,56 @@
+FUCNTIONS OF THE CONSOLE.LOG STATEMENT
+
+    1. Display Output to the Console
+
+    console.log() prints messages or values to the browser’s developer console.
+    This is especially useful when you want to see the result of a calculation or check what your code is doing.
+
+    console.log("Hello, world!");
+
+    2. Debugging Code
+
+    It helps developers identify bugs by showing variable values at different points in a program.
+
+    let x = 5;
+    console.log("Value of x is:", x);
+
+    3. Track Code Execution
+
+    You can use it to mark code execution points and see which parts of your program are running.
+
+    console.log("Loop started");
+
+    4. Display Objects, Arrays, and Data Structures
+
+    console.log() can show complex data structures clearly.
+
+    console.log({name: "John", age: 25});
+    console.log([1, 2, 3, 4]);
+
+    5. Test Expressions Quickly
+
+    You can evaluate expressions without storing them in variables.
+
+    console.log(5 + 10 * 2);
+
+    6. Provide Information to Developers
+
+    It acts as an in-code message board for developers working on the same project.
+
+    console.log("Fetching user data...");
+
+    ✅ Summary
+
+    console.log() is mainly used for:
+
+    Outputting values
+
+    Debugging
+
+    Inspecting data
+
+    Tracking program flow
+
+    Testing expressions
+
+    Communicating information within the code
