@@ -19,6 +19,7 @@ console.log(typeof moses, typeof ichie, typeof pinkranger);
 */
 
 let pinkranger = "fortune";
+
 let name = "Doctor";
 console.log(`Hello ${name}`);
 
@@ -145,9 +146,9 @@ let classroom = [
 /* 
 OPERATOR AND EEXPRESSIONS
 
-    Operators are symbols that perform operations on variables and values.
-    Expressions are combinations of variables, values, and operators that evaluate to a single value.
-    Operands are the values or variables on which the operators perform operations.
+      Operators are symbols that perform operations on variables and values.
+      Expressions are combinations of variables, values, and operators that evaluate to a single value.
+      Operands are the values or variables on which the operators perform operations.
 */
 
 let x = 10; // assignment operator =
