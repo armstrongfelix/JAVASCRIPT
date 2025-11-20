@@ -81,11 +81,36 @@ SayHi("Obinna", welcome);
       return x * y;
     }
 
-*/
+
 
 function Multiply(b, c, d) {
   return b * c + d;
 }
 
+
 console.log(Multiply(1, 3, 4));
 console.log(Multiply(5, 6, 7));
+*/
+
+/*  PRACTICE EXERCISE
+  Create a function that will simulate a bank account withdrawal.
+  The function should take in the amount to withdraw as a parameter.
+  The function should check if the account has sufficient funds for the withdrawal.
+  If there are sufficient funds, the function should deduct the amount from the account balance and return the new balance.
+  If there are insufficient funds, the function should return a message indicating that the withdrawal cannot be processed.
+
+let balance = 2000;
+
+const Account = (amount) => {
+  if (amount > balance) return "insufficient fund";
+  else {
+    return `your withrawal was succesfully, balance is ${balance - amount}`;
+  }
+};
+
+let withdraw = Number(prompt("Enter amount you want to withdraw : "));
+
+Account(withdraw);
+
+alert(Account(withdraw));
+*/
