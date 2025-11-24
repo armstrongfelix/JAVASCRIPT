@@ -85,3 +85,18 @@ console.log(details);
 let l = "feliiiiiiix";
 alert(l.lastIndexOf("i"));
 */
+
+/*
+  Reversing a string is a common programming task that can be accomplished in JavaScript using a combination of string and array methods. The process involves three main steps:
+
+    Splitting the string into an array of characters.
+    Reversing the array.
+    Joining the characters back into a string.
+
+
+let n = "felix";
+arr = n.split("");
+arr = arr.reverse();
+n = arr.join("");
+console.log(n);
+*/
