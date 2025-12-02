@@ -75,6 +75,10 @@ console.log(details);
     vii.  array.join() used to join array values together.
     viii. array.slice(start,end+1)
     ix.   array.splice(start-index, index-i, index-i+1, index-i+3....end-index) is also used to extract array valus by specifying all the index.
+    x.  array.push("parameters") used to add values to the end of an array
+    xi. array.pop() Removes the last value of an array
+    xii.  array.shift() Removes the firs value of an array
+    viv.  array.unshift("parameter") used to add value at the begining of an array.
             e.g a
 
 

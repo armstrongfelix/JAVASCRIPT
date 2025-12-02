@@ -1,0 +1,3 @@
+DOM
+Document object model.
+this a tree of all the html element on web page
