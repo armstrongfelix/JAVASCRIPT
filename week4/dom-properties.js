@@ -36,14 +36,14 @@ neche.innerText = "<em>Neche is now happy</em>";
 
 /*
     DOM Manipulation Methods
-    createElement()
-    appendChild()
-    append()
-    perPend()
-    removeChild()
-    element.remove()
-    replaceChild()
-    insertBefore()
+        createElement()
+        appendChild()
+        append()
+        prepend()
+        removeChild()
+        element.remove()
+        replaceChild()
+        insertBefore()
     */
 
 /*
@@ -60,7 +60,7 @@ used for adding achild element at the end of child element of a parent element.
 adds one element at a time. this adds only one element at time, it does not add text.
 
 document.prepend(paramter)
-this adds element to the begining of an element.
+this adds element to the begining of an element. it adds both text and html elements
 
 document.append()
 this adds multiple elements at a time.
